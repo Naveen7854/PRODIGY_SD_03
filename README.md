@@ -18,4 +18,4 @@ The Contact Management System is a simple application developed using Python's T
 1. Ensure you have Python installed on your machine. You can download it from [python.org](https://www.python.org/downloads/).
 2. Clone this repository to your local machine using:
    ```bash
-   git clone https://github.com/yourusername/contact-management-system.git
+   git clone https://github.com/Naveen7854/contact-management-system.git
